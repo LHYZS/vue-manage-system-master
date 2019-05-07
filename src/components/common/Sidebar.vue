@@ -39,12 +39,12 @@
                 collapse: false,
                 items: [
                     {
-                        icon: 'el-icon-setting',
+                        icon: 'el-icon-s-home',
                         index: 'dashboard',
                         title: '首页'
                     },
                     {
-                        icon: 'el-icon-date',
+                        icon: 'el-icon-setting',
                         index: '1',
                         title: '管理',
                         subs: [
